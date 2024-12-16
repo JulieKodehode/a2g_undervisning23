@@ -1,1 +1,4 @@
 node_modules
+
+# This is a comment
+# Add .md files in gitignore to make git ignore these files
